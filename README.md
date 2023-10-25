@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/main1479/main1479/main/github-cover2.png" width="100%" alt="Mainul Islam">
+  <img src="https://raw.githubusercontent.com/mainul-dev/mainul-dev/main/My_banner.png" width="100%" alt="Mainul Islam">
 </p>
 
 
